@@ -1,0 +1,2 @@
+# Verificadora-grupoVerde
+Proyecto POO
